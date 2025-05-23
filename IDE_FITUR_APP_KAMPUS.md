@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-Reminder Tugas H-1
+* **Nama Fitur:** H-1 Tugas
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk menerima alert saat suatu tugas memiliki deadline h-1
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Memberikan kesadaran pada mahasiswa yang lupa ada tugas
+* **Diajukan oleh:** 497916
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
